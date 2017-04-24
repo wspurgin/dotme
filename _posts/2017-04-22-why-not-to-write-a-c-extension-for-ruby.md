@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why not to write a C extensiion for Ruby"
+title:  "Why not to write a C extension for Ruby"
 date:   2017-04-22 22:22:22 -0500
 categories: ruby
 ---
