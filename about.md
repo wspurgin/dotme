@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm a software craftsmen producing bugs in the Dallas area. My main language of
+choice Ruby, but I've dabbled in everything from PHP, Python, R, C, C++, Lisp,
+Java, and JavaScript.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+To learn more about me, I highly suggest checking out the prank blog my
+friends setup to mess with me: [http://wspurgin.us](http://wspurgin.us)
