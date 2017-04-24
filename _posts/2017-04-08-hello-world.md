@@ -7,7 +7,7 @@ categories: intros
 
 >`puts "Hello, World."`
 
-From the depths of time (the 1970s to [be exact](b-tutorial)) weekend hackers,
+From the depths of time (the 1970s to [be exact][b-tutorial]) weekend hackers,
 professional software craftsmen, moonlight code monkeys, and geeks of all sorts
 have been giving their salutations to various "worlds". Today, I'm doing the
 same to the saturated-personal-opinion-my-thoughts-matter-blog one. So,
